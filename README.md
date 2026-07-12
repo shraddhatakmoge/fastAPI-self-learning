@@ -1,2 +1,2 @@
 # fastAPI-self-learning
-This is repor purpose is to just practice FastAPI from campusX 
+This is repo purpose is to just practice FastAPI from campusX 
